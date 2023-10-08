@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905918014395",
+    "project_id": "mobile-code-testing",
+    "storage_bucket": "mobile-code-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905918014395:android:0ac068b2bf42b05ac75a9e",
+        "android_client_info": {
+          "package_name": "com.syn.mobilecodetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9VR3bTDpO_6859EjHP-8TjITPBdAc1YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
